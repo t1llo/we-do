@@ -15,3 +15,16 @@
 #                     |  ,   /  ---`-'  ---`-'                   |   | ,'    \   \  / |  |,'  |  |,' |  ,     .-./ 
 #                      ---`-'                                    `----'       `----'  `--'    `--'    `--`---'     
 
+Node.js
+React
+WebGL
+Canvas
+Pixi.js
+SEO
+Gulp
+Sass
+Anime.js
+GSAP
+HTML
+CSS
+ES6
