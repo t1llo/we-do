@@ -16,7 +16,7 @@
 #                      ---`-'                                    `----'       `----'  `--'    `--'    `--`---'     
 
 Node.js
-React
+React.js
 WebGL
 Canvas
 Pixi.js
