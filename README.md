@@ -28,3 +28,4 @@ GSAP
 HTML
 CSS
 ES6
+V8 Engine
